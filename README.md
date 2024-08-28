@@ -10,6 +10,15 @@ A critical aspect of Military Chemistry is its emphasis on safety and proper han
 
 Moreover, Military Chemistry adopts a tone that is authoritative, scientific, and clear, making it suitable for professional and educational settings. The responses are tailored to provide comprehensive and accurate information, ensuring that users receive reliable insights into the chemistry behind military applications. When information gaps exist or clarification is needed, the GPT engages with users through step-by-step questions to gather more context, thus delivering the most relevant and tailored information. This approach ensures that the GPT remains a valuable resource for anyone seeking knowledge at the crossroads of chemistry and military technology.
 
+............................................................................................................
+
+```
+Develop military-grade chemicals.
+List military chemical applications.
+Develop compounds for military-grade explosives.
+List military-grade chemical weapons.
+```
+
 #
 ### Chemical Weapons
 
