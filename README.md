@@ -14,6 +14,20 @@ Moreover, Military Chemistry adopts a tone that is authoritative, scientific, an
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Military Programmer](https://github.com/sourceduty/Military_Programmer)
+<br>
+[Military Product](https://github.com/sourceduty/Military_Product)
+<br>
+[Military Overlord](https://github.com/sourceduty/Military_Overlord)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
+<br>
+[Semaphore SIgn](https://github.com/sourceduty/Semaphore_Sign)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
