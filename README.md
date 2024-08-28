@@ -59,7 +59,7 @@ Pepper Spray (OC): Causes intense eye, skin, and respiratory irritation.
 CN Gas (Chloroacetophenone): A chemical that irritates mucous membranes and is used in tear gas formulations.
 
 7. Psychochemical Weapons
-8. 
+   
 These are designed to disrupt psychological processes, often causing hallucinations or other mental effects.
 
 LSD (Lysergic acid diethylamide): Though not typically a military-grade chemical weapon, it has been considered for use in incapacitating the enemy.
