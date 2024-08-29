@@ -111,6 +111,24 @@ The list of top 15 military chemicals encompasses a range of substances with div
 15. Tabun (GA) - A nerve agent that is less volatile but still highly toxic, used as a chemical weapon.
 
 #
+### Military-Grade Explosives
+
+These military-grade explosive chemicals are among the most powerful and commonly used in various military applications, including demolition, munitions, and strategic explosives. RDX and HMX are high-energy materials that form the basis of many military explosives due to their stability and power. TNT, one of the oldest military explosives, is still widely used for its reliable performance. PETN and C-4 are valued for their flexibility and detonation properties, with C-4 being a malleable, plastic explosive. TATB is known for its insensitivity to shock, making it safer for handling. Octanitrocubane is a theoretical compound noted for its potential energy density. ANFO, a mixture of ammonium nitrate and fuel oil, is a widely used bulk explosive in military and industrial applications. HNS is used for its thermal stability, and Tetryl was historically used as a booster charge. Each of these chemicals has unique characteristics that make them suitable for specific military applications, combining factors such as stability, power, and sensitivity to meet the demands of modern military operations.
+
+..............................................................................................................
+
+1. RDX (Cyclotrimethylenetrinitramine)
+2. HMX (Cyclotetramethylene-tetranitramine)
+3. TNT (Trinitrotoluene)
+4. PETN (Pentaerythritol Tetranitrate)
+5. C-4 (Composition C-4, a mixture of RDX and plasticizer)
+6. TATB (Triaminotrinitrobenzene)
+7. Octanitrocubane
+8. ANFO (Ammonium Nitrate Fuel Oil)
+9. HNS (Hexanitrostilbene)
+10. Tetryl (2,4,6-Trinitrophenylmethylnitramine)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
