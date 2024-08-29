@@ -154,6 +154,8 @@ These military-grade explosive chemicals are among the most powerful and commonl
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
 [Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
+<br>
+[Military Operations](https://github.com/sourceduty/Military_Operations)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
