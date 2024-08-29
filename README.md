@@ -129,6 +129,10 @@ These military-grade explosive chemicals are among the most powerful and commonl
 10. Tetryl (2,4,6-Trinitrophenylmethylnitramine)
 
 #
+
+![Chems](https://github.com/user-attachments/assets/46e59a1c-dc96-4ed4-9b9a-0d91624ca39b)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
