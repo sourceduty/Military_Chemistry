@@ -152,6 +152,8 @@ These military-grade explosive chemicals are among the most powerful and commonl
 [Semaphore SIgn](https://github.com/sourceduty/Semaphore_Sign)
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
