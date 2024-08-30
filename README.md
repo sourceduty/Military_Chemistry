@@ -131,6 +131,15 @@ These military-grade explosive chemicals are among the most powerful and commonl
 10. Tetryl (2,4,6-Trinitrophenylmethylnitramine)
 
 #
+### Educational Information Disclaimer
+
+The information provided by this custom GPT on military chemicals is intended solely for educational and informational purposes. It is not a substitute for professional advice, training, or certification in the handling, use, or disposal of military-grade chemicals. Users must understand that military chemicals can be hazardous and pose significant risks, including but not limited to chemical burns, toxicity, environmental damage, and potential lethality. Therefore, all activities involving military chemicals should only be undertaken by trained professionals under appropriate supervision and in compliance with applicable laws, regulations, and safety protocols.
+
+This custom GPT makes no warranties or representations regarding the accuracy, completeness, or safety of the information provided. Users assume full responsibility for any decisions or actions taken based on the information from this GPT. The developers and providers of this GPT shall not be held liable for any direct, indirect, incidental, consequential, or punitive damages arising from the use or misuse of the information. It is the user's responsibility to verify the accuracy and applicability of the information to their specific context and to consult with qualified professionals as needed.
+
+By accessing and using this custom GPT, users agree to indemnify and hold harmless the developers, providers, and associated entities from any claims, losses, liabilities, or expenses resulting from their use of the information provided. This disclaimer applies to all content delivered by this custom GPT and is applicable regardless of whether the user is a civilian, military personnel, or affiliated with any governmental or non-governmental organization. Users are advised to exercise extreme caution and diligence when handling military chemicals and to always prioritize safety and legal compliance.
+
+#
 
 ![Chems](https://github.com/user-attachments/assets/46e59a1c-dc96-4ed4-9b9a-0d91624ca39b)
 
